@@ -4,6 +4,7 @@ This is my first ever hands on , using **JAVA** for "**Game Development**" just 
 Hope you like it and use it how so ever you want.
 
 Libraries used this Prject are:
+
     >java.awt.event.ActionEvent
     >java.awt.Graphics
     >java.awt.FontMetrics
@@ -13,11 +14,13 @@ Libraries used this Prject are:
     >javax.swing.JPanel
     >javax.swing.JFrame
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+# **GAME PREVEW**
+![Game_preview](https://github.com/praTeek271/snake-game/blob/master/snake-game/src/pic/game_preview.png?raw=true)
 
 
-
-
+# **GAME OVER SCREEN**
+![Game_over screen](https://github.com/praTeek271/snake-game/blob/master/snake-game/src/pic/Game_Over_Screen.png?raw=true)
 
 
 
