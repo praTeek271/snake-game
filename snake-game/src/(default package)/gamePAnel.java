@@ -12,7 +12,7 @@ public class gamePAnel extends JPanel implements ActionListener {
     static final int DELAY = 75;
     final int x[] = new int[GAME_UNITS];
     final int y[] = new int[GAME_UNITS];
-    int bodyParts = 7;
+    int bodyParts = 3;
     int appleEaten;
     int appleX;
     int appleY;
@@ -155,6 +155,8 @@ public class gamePAnel extends JPanel implements ActionListener {
         FontMetrics metrics1 = getFontMetrics(g.getFont());
         g.drawString("SCORE : " + appleEaten, (SCREEN_WIDTH - metrics1.stringWidth("SCORE : " + appleEaten)) / 2,
                 g.getFont().getSize());
+
+        System.out.println("\n==================== '' GameOver : "+appleEaten+" '' ============================");
 
     }
 
