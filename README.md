@@ -4,29 +4,26 @@ This is my first ever hands on , using **JAVA** for "**Game Development**" just 
 Hope you like it and use it how so ever you want.
 
 Libraries used this Prject are:
--
-    java.awt.event.ActionEvent
-    
--   
-    java.awt.Graphics
 
--   
-    java.awt.FontMetrics
+- java.awt.event.ActionEvent
+    
+- java.awt.Graphics
 
--    
-    java.awt.event.KeyAdapter
+- java.awt.FontMetrics
 
--
-    java.awt.event.KeyEvent
+- java.awt.event.KeyAdapter
+
+- java.awt.event.KeyEvent
     
--
-    java.util.Random
+- java.util.Random
     
--    
-    javax.swing.JPanel
+- javax.swing.JPanel
     
--    
-    javax.swing.JFrame
+- javax.swing.JFrame
+
+<br><hr><br>
+
+
 
 
 # **GAME PREVEW**
